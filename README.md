@@ -1,4 +1,4 @@
-This is the repository for the ISCA 2025 accepted paper titled *Zettafly: A Network Topology with Flexible Non-blocking Regions for Large-scale AI and HPC Systems*. Currently, this repository only provides the conference presentation slides.
+This is the repository for the ISCA 2025 accepted paper titled *Zettafly: A Network Topology with Flexible Non-blocking Regions for Large-scale AI and HPC Systems*. Currently, this repository only provides the conference presentation slides. The presentation video can be found at: [https://www.bilibili.com/video/BV1YbK3z9ErS](https://www.bilibili.com/video/BV1YbK3z9ErS).
 
 The results presented in the paper are based on our self-developed simulator, which we currently do not plan to open-source. As a result, I am unable to share the code for Zettafly. However, the experiments involving synthetic workloads in the paper can be reproduced using commonly available credit-based flow control simulators, such as Booksim.
 
